@@ -10,11 +10,11 @@ These projects demonstrate my ability to transform raw data into meaningful insi
 5. Data transformation and modeling using Power Query and DAX.
 
 ## Key Benefits
-1. Track KPIs and measure performance against targets.
-2. Identify high-performing and underperforming areas.
-3. Monitor trends over time and detect patterns.
-4. Analyze data dynamically using filters and slicers.
-5. Reduce manual effort by providing automated summaries and insights.
+>> Track KPIs and measure performance against targets.
+>> Identify high-performing and underperforming areas.
+>> Monitor trends over time and detect patterns.
+>> Analyze data dynamically using filters and slicers.
+>> Reduce manual effort by providing automated summaries and insights.
 
 ## Here are few snapshots:
 ### Intro page
