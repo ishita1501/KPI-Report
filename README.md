@@ -1,2 +1,6 @@
-# BI-Reports
-A comprehensive portfolio of Power BI reports, dashboards, and analytics solutions covering network operations, IT service management (ITSM), workload planning, KPI tracking, resource utilization, and business intelligence. Demonstrates expertise in Power BI, DAX, Power Query, data modeling, and reporting automation.
+# KPI-Report
+This repository showcases a collection of interactive dashboards developed using Power BI, Power Query, DAX, and data modeling techniques.
+These projects demonstrate my ability to transform raw data into meaningful insights through data visualization, KPI tracking, trend analysis, and automated reporting.
+
+### A Glimpse of Intro page
+https://github.com/ishita1501/BI-Reports/blob/main/Intro%20Page.png
